@@ -1,2 +1,2 @@
-# axial_pop_dens
-population density analysis.
+# axial_cumsum
+raster cummulative analysis along axis
